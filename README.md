@@ -1,4 +1,4 @@
-# Order to Cash Power BI Dashboard
+# Order to Cash Dashboard - Power BI
 Power BI Order to Cash dashboard built for Executive and Regional Heads. Data insights are generated and recommendation is provided in order to improve the sales, 
 reduce overdue amount and improve over all customer experience 
 
@@ -18,7 +18,7 @@ Narrative is automatically generated as per filter selection and key influencers
 # Euro climate Data Insights - Power BI 
 Euro climate data set is used to analyze Green house emissions Vs Contribution to climate change, understanding countries impacting Fossil fuels
 
-# Sustainabiity SAP Analytics Cloud Dashboard
+# Sustainabiity Dashboard - SAP Analytics Cloud 
 
 ## Data
 Food and Beverages manufacturing company with global operations. 
