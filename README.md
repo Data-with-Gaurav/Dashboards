@@ -1,4 +1,4 @@
-# Order to Cash Dashboard - Power BI
+# 1) Order to Cash Dashboard - Power BI
 Power BI Order to Cash dashboard built for Executive and Regional Heads. Data insights are generated and recommendation is provided in order to improve the sales, 
 reduce overdue amount and improve over all customer experience 
 
@@ -18,10 +18,10 @@ Triple exponential smoothing model is used to predict sales forecast for 12 mont
 ## Smart narrative & Key Influencers
 Narrative is automatically generated as per filter selection and key influencers for drop in sales and increase in overdue amount is identified using in built smart narrative and key influencers in Power BI
 
-# Euro climate Data Insights - Power BI 
+# 2) Euro climate Data Insights - Power BI 
 Euro climate data set is used to analyze Green house emissions Vs Contribution to climate change, understanding countries impacting Fossil fuels
 
-# Sustainabiity Dashboard - SAP Analytics Cloud 
+# 3) Sustainabiity Dashboard - SAP Analytics Cloud 
 
 ## Data
 Food and Beverages manufacturing company with global operations. 
