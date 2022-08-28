@@ -17,3 +17,19 @@ Narrative is automatically generated as per filter selection and key influencers
 
 # Euro climate Data Insights
 Euro climate data set is used to analyze Green house emissions Vs Contribution to climate change, understanding countries impacting Fossil fuels
+
+# Sustainabiity SAP Analytics Cloud Dashboard
+
+## Data
+Food and Beverages manufacturing company with global operations. 
+
+## Assumptions
+There is one factory location per country and multiple per region. The ‘Overview’ section of the dashboard is intended for an executive audience. The subsequent sections provide more granular detail and are intended for regional leads.
+
+## Dashboard details
+This dashboard is divided into many sections that provide comprehensive sustainability statistics across four areas – Carbon, Water Usage, Energy Efficiency and Food Waste. It helps the organisation to compare performance in each area against targets and allows for comparison across locations. This will help with abiding by regulations and with efficiency in the use of resources to bring down the firms emissions levels.
+
+
+
+
+
