@@ -2,6 +2,9 @@
 Power BI Order to Cash dashboard built for Executive and Regional Heads. Data insights are generated and recommendation is provided in order to improve the sales, 
 reduce overdue amount and improve over all customer experience 
 
+# Data
+It consists 4 tables from sales, receivables_ledger, receivables and dunning calls dataset
+
 ## Key features of the dashboard
 It contains 3 tabs 
 a) Overview specially curated for executives 
