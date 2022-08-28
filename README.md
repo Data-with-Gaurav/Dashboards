@@ -15,7 +15,7 @@ Triple exponential smoothing model is used to predict sales forecast for 12 mont
 ## Smart narrative & Key Influencers
 Narrative is automatically generated as per filter selection and key influencers for drop in sales and increase in overdue amount is identified using in built smart narrative and key influencers in Power BI
 
-# Euro climate Data Insights
+# Euro climate Data Insights - Power BI 
 Euro climate data set is used to analyze Green house emissions Vs Contribution to climate change, understanding countries impacting Fossil fuels
 
 # Sustainabiity SAP Analytics Cloud Dashboard
